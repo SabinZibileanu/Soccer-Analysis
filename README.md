@@ -4,3 +4,10 @@ A data analysis project that I have done throughout a 1-month Data Camp organize
 It is focused on pre-match opponent analysis reports centered around defensive play.
 
 All the data was provided by the WyScout platform.
+
+How to run the project:
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/SabinZibileanu/Soccer-Analysis.git
+   cd Soccer-Analysis
